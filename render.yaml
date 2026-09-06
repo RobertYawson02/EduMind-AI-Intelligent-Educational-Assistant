@@ -8,6 +8,12 @@ services:
     healthCheckPath: /health
     autoDeploy: true
     envVars:
+      - key: AUTH_ENABLED
+        value: "1"
+      - key: APP_USERNAME
+        value: supervisor
+      - key: APP_PASSWORD_HASH
+        sync: false
       - key: SECRET_KEY
         generateValue: true
       - key: DATABASE_URL

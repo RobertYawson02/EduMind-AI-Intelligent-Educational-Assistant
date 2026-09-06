@@ -34,7 +34,7 @@ docker build -t edumind-ai .
 docker run --rm -p 5000:5000 edumind-ai
 ```
 
-The Render Blueprint uses a Starter web service and Starter PostgreSQL database so sessions persist across restarts and can be safely shared by multiple workers. Hosting costs depend on the provider and plan. Lower-cost free tiers may sleep or provide limited storage.
+The Render Blueprint is configured for the free web service and free PostgreSQL plans. The free web service sleeps after inactivity and may take about a minute to wake up. Free PostgreSQL is limited to 1 GB and expires after 30 days, so export or upgrade the database before that deadline if you need to retain conversation history.
 
 ### Supervisor access
 

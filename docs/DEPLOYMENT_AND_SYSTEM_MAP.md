@@ -50,7 +50,7 @@ JSON response rendered by templates/index.html
 
 ## Hosting and sharing
 
-Render is the recommended first deployment because it can build directly from GitHub and supplies HTTPS. After deployment, share the generated service URL. A supervisor can use the same URL from a laptop, tablet, or phone without installing Python or copying the dataset.
+Render is the recommended first deployment because it can build directly from GitHub and supplies HTTPS. The repository Blueprint uses free web and PostgreSQL plans for demonstration use. Free web services sleep after inactivity, and free PostgreSQL expires after 30 days, so upgrade or export the database before expiry if conversation history must be retained. After deployment, share the generated service URL. A supervisor can use the same URL from a laptop, tablet, or phone without installing Python or copying the dataset.
 
 Other suitable hosts are Railway, Fly.io, Google Cloud Run, Azure App Service, and an institutional VM. They all need the same production command:
 

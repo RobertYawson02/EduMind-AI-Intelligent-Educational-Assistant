@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sign in | EduMind AI</title>
+    <style>
+        :root { color-scheme: light; font-family: Georgia, 'Times New Roman', serif; }
+        * { box-sizing: border-box; }
+        body { margin: 0; min-height: 100vh; display: grid; place-items: center; padding: 24px; color: #172033; background: linear-gradient(135deg, #e8f1ff, #fff7e6); }
+        main { width: min(100%, 420px); padding: 36px; background: rgba(255,255,255,.92); border: 1px solid #dbe4f0; border-radius: 18px; box-shadow: 0 24px 70px rgba(23,32,51,.14); }
+        .mark { width: 48px; height: 48px; display: grid; place-items: center; border-radius: 14px; color: #fff; background: #155e75; font-size: 24px; }
+        h1 { margin: 24px 0 8px; font-size: 30px; }
+        p { color: #64748b; line-height: 1.5; }
+        label { display: block; margin: 18px 0 7px; font-weight: 700; font-size: 14px; }
+        input { width: 100%; padding: 13px 14px; border: 1px solid #cbd5e1; border-radius: 9px; font: inherit; }
+        input:focus { outline: 3px solid rgba(14,116,144,.2); border-color: #0e7490; }
+        button { width: 100%; margin-top: 24px; padding: 13px 16px; border: 0; border-radius: 9px; color: #fff; background: #0e7490; font: inherit; font-weight: 700; cursor: pointer; }
+        button:hover { background: #155e75; }
+        .error { padding: 10px 12px; border-radius: 8px; color: #991b1b; background: #fef2f2; }
+    </style>
+</head>
+<body>
+    <main>
+        <div class="mark" aria-hidden="true">E</div>
+        <h1>Welcome back</h1>
+        <p>Sign in to access the EduMind educational assistant.</p>
+        {% if error %}<div class="error" role="alert">{{ error }}</div>{% endif %}
+        <form method="post">
+            <label for="username">Username</label>
+            <input id="username" name="username" autocomplete="username" required autofocus>
+            <label for="password">Password</label>
+            <input id="password" name="password" type="password" autocomplete="current-password" required>
+            <button type="submit">Sign in</button>
+        </form>
+    </main>
+</body>
+</html>

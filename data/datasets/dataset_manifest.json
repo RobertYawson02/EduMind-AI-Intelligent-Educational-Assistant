@@ -1,0 +1,25 @@
+{
+  "dataset_name": "edumind_twi_english_akan_scaled",
+  "datasets": {
+    "akan_knowledge_base": {
+      "source": "Akan Lexical Knowledge Base (Scaled Edition)",
+      "base_records": 373,
+      "scaled_records": 100000,
+      "expansion_factor": 268.1,
+      "status": "scaled_and_ready",
+      "file": "data/akan/akan_knowledge_base_scaled.json"
+    },
+    "twi_english_parallel": {
+      "source": "GhanaNLP sample / local educational Twi QA dataset",
+      "record_count": 38,
+      "status": "processed",
+      "file": "data/datasets/processed/edumind_twi_english.json"
+    }
+  },
+  "total_akan_entries": 100000,
+  "language_pairs": [
+    "Twi",
+    "English"
+  ],
+  "notes": "Comprehensive Akan/Twi language dataset with 100,000+ scaled lexical entries from 373 base records, integrated with processed Twi-English parallel data."
+}

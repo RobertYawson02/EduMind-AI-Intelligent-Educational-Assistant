@@ -1,0 +1,1891 @@
+[
+  {
+    "id": "akan_vocab_family_agya_father",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "family",
+    "word": "agya",
+    "akan": "agya",
+    "twi": "agya",
+    "english": "father",
+    "translation": "father",
+    "meaning": "A male parent or a man who has the role of a father.",
+    "definition": "A male parent or a man who has the role of a father.",
+    "examples": [
+      "agya yɛ asɛm a wɔde kyerɛ father."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "ɛna",
+      "abusua",
+      "awofo"
+    ],
+    "keywords": [
+      "agya",
+      "father",
+      "family"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_family_na_mother",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "family",
+    "word": "ɛna",
+    "akan": "ɛna",
+    "twi": "ɛna",
+    "english": "mother",
+    "translation": "mother",
+    "meaning": "A female parent or a woman who has the role of a mother.",
+    "definition": "A female parent or a woman who has the role of a mother.",
+    "examples": [
+      "ɛna yɛ asɛm a wɔde kyerɛ mother."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "agya",
+      "abusua",
+      "awofo"
+    ],
+    "keywords": [
+      "ɛna",
+      "mother",
+      "family"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_family_ba_child",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "family",
+    "word": "ɔba",
+    "akan": "ɔba",
+    "twi": "ɔba",
+    "english": "child",
+    "translation": "child",
+    "meaning": "A young human being in relation to a parent or family.",
+    "definition": "A young human being in relation to a parent or family.",
+    "examples": [
+      "ɔba yɛ asɛm a wɔde kyerɛ child."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "abusua",
+      "agya",
+      "ɛna"
+    ],
+    "keywords": [
+      "ɔba",
+      "child",
+      "family"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_family_abarimaa_boy",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "family",
+    "word": "abarimaa",
+    "akan": "abarimaa",
+    "twi": "abarimaa",
+    "english": "boy",
+    "translation": "boy",
+    "meaning": "A male child or young male person.",
+    "definition": "A male child or young male person.",
+    "examples": [
+      "abarimaa yɛ asɛm a wɔde kyerɛ boy."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "ɔba",
+      "ababasia"
+    ],
+    "keywords": [
+      "abarimaa",
+      "boy",
+      "family"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_family_ababasia_girl",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "family",
+    "word": "ababasia",
+    "akan": "ababasia",
+    "twi": "ababasia",
+    "english": "girl",
+    "translation": "girl",
+    "meaning": "A female child or young female person.",
+    "definition": "A female child or young female person.",
+    "examples": [
+      "ababasia yɛ asɛm a wɔde kyerɛ girl."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "ɔba",
+      "abarimaa"
+    ],
+    "keywords": [
+      "ababasia",
+      "girl",
+      "family"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_family_yere_wife",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "family",
+    "word": "ɔyere",
+    "akan": "ɔyere",
+    "twi": "ɔyere",
+    "english": "wife",
+    "translation": "wife",
+    "meaning": "A married woman in relation to her husband.",
+    "definition": "A married woman in relation to her husband.",
+    "examples": [
+      "ɔyere yɛ asɛm a wɔde kyerɛ wife."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "ɔkunu",
+      "aware",
+      "abusua"
+    ],
+    "keywords": [
+      "ɔyere",
+      "wife",
+      "family"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_family_kunu_husband",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "family",
+    "word": "ɔkunu",
+    "akan": "ɔkunu",
+    "twi": "ɔkunu",
+    "english": "husband",
+    "translation": "husband",
+    "meaning": "A married man in relation to his wife.",
+    "definition": "A married man in relation to his wife.",
+    "examples": [
+      "ɔkunu yɛ asɛm a wɔde kyerɛ husband."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "ɔyere",
+      "aware",
+      "abusua"
+    ],
+    "keywords": [
+      "ɔkunu",
+      "husband",
+      "family"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_family_abusua_family",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "family",
+    "word": "abusua",
+    "akan": "abusua",
+    "twi": "abusua",
+    "english": "family",
+    "translation": "family",
+    "meaning": "A group of people connected through kinship or descent.",
+    "definition": "A group of people connected through kinship or descent.",
+    "examples": [
+      "abusua yɛ asɛm a wɔde kyerɛ family."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "agya",
+      "ɛna",
+      "awofo"
+    ],
+    "keywords": [
+      "abusua",
+      "family",
+      "family"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_family_awofo_parents",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "family",
+    "word": "awofo",
+    "akan": "awofo",
+    "twi": "awofo",
+    "english": "parents",
+    "translation": "parents",
+    "meaning": "The father and mother or people who have parental responsibility.",
+    "definition": "The father and mother or people who have parental responsibility.",
+    "examples": [
+      "awofo yɛ asɛm a wɔde kyerɛ parents."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "agya",
+      "ɛna",
+      "abusua"
+    ],
+    "keywords": [
+      "awofo",
+      "parents",
+      "family"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_people_onipa_person",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "people",
+    "word": "onipa",
+    "akan": "onipa",
+    "twi": "onipa",
+    "english": "person",
+    "translation": "person",
+    "meaning": "A human being.",
+    "definition": "A human being.",
+    "examples": [
+      "onipa yɛ asɛm a wɔde kyerɛ person."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "nnipa",
+      "ɔbarima",
+      "ɔbaa"
+    ],
+    "keywords": [
+      "onipa",
+      "person",
+      "people"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_people_nnipa_people",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "people",
+    "word": "nnipa",
+    "akan": "nnipa",
+    "twi": "nnipa",
+    "english": "people",
+    "translation": "people",
+    "meaning": "Human beings considered as a group.",
+    "definition": "Human beings considered as a group.",
+    "examples": [
+      "nnipa yɛ asɛm a wɔde kyerɛ people."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "onipa",
+      "ɔman",
+      "abusua"
+    ],
+    "keywords": [
+      "nnipa",
+      "people",
+      "people"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_people_barima_man",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "people",
+    "word": "ɔbarima",
+    "akan": "ɔbarima",
+    "twi": "ɔbarima",
+    "english": "man",
+    "translation": "man",
+    "meaning": "An adult male person.",
+    "definition": "An adult male person.",
+    "examples": [
+      "ɔbarima yɛ asɛm a wɔde kyerɛ man."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "ɔbaa",
+      "onipa"
+    ],
+    "keywords": [
+      "ɔbarima",
+      "man",
+      "people"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_people_baa_woman",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "people",
+    "word": "ɔbaa",
+    "akan": "ɔbaa",
+    "twi": "ɔbaa",
+    "english": "woman",
+    "translation": "woman",
+    "meaning": "An adult female person.",
+    "definition": "An adult female person.",
+    "examples": [
+      "ɔbaa yɛ asɛm a wɔde kyerɛ woman."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "ɔbarima",
+      "onipa"
+    ],
+    "keywords": [
+      "ɔbaa",
+      "woman",
+      "people"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_people_panyin_elder",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "people",
+    "word": "ɔpanyin",
+    "akan": "ɔpanyin",
+    "twi": "ɔpanyin",
+    "english": "elder",
+    "translation": "elder",
+    "meaning": "A respected older person, often recognized for experience and wisdom.",
+    "definition": "A respected older person, often recognized for experience and wisdom.",
+    "examples": [
+      "ɔpanyin yɛ asɛm a wɔde kyerɛ elder."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "nyansa",
+      "obu",
+      "abusua"
+    ],
+    "keywords": [
+      "ɔpanyin",
+      "elder",
+      "people"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_body_ti_head",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "body",
+    "word": "ti",
+    "akan": "ti",
+    "twi": "ti",
+    "english": "head",
+    "translation": "head",
+    "meaning": "The uppermost part of the human body containing the brain, eyes, ears and other organs.",
+    "definition": "The uppermost part of the human body containing the brain, eyes, ears and other organs.",
+    "examples": [
+      "ti yɛ asɛm a wɔde kyerɛ head."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "ani",
+      "aso",
+      "ano"
+    ],
+    "keywords": [
+      "ti",
+      "head",
+      "body"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_body_ani_eye",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "body",
+    "word": "ani",
+    "akan": "ani",
+    "twi": "ani",
+    "english": "eye",
+    "translation": "eye",
+    "meaning": "The organ used for seeing.",
+    "definition": "The organ used for seeing.",
+    "examples": [
+      "ani yɛ asɛm a wɔde kyerɛ eye."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "ti",
+      "hwɛ"
+    ],
+    "keywords": [
+      "ani",
+      "eye",
+      "body"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_body_aso_ear",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "body",
+    "word": "aso",
+    "akan": "aso",
+    "twi": "aso",
+    "english": "ear",
+    "translation": "ear",
+    "meaning": "The organ used for hearing.",
+    "definition": "The organ used for hearing.",
+    "examples": [
+      "aso yɛ asɛm a wɔde kyerɛ ear."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "ti",
+      "tie"
+    ],
+    "keywords": [
+      "aso",
+      "ear",
+      "body"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_body_ano_mouth",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "body",
+    "word": "ano",
+    "akan": "ano",
+    "twi": "ano",
+    "english": "mouth",
+    "translation": "mouth",
+    "meaning": "The opening through which a person eats and speaks.",
+    "definition": "The opening through which a person eats and speaks.",
+    "examples": [
+      "ano yɛ asɛm a wɔde kyerɛ mouth."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "tɛkrɛma",
+      "se"
+    ],
+    "keywords": [
+      "ano",
+      "mouth",
+      "body"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_body_t_kr_ma_tongue",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "body",
+    "word": "tɛkrɛma",
+    "akan": "tɛkrɛma",
+    "twi": "tɛkrɛma",
+    "english": "tongue",
+    "translation": "tongue",
+    "meaning": "The muscular organ in the mouth used for speaking, tasting and moving food.",
+    "definition": "The muscular organ in the mouth used for speaking, tasting and moving food.",
+    "examples": [
+      "tɛkrɛma yɛ asɛm a wɔde kyerɛ tongue."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "ano",
+      "kasa"
+    ],
+    "keywords": [
+      "tɛkrɛma",
+      "tongue",
+      "body"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_body_nsa_hand",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "body",
+    "word": "nsa",
+    "akan": "nsa",
+    "twi": "nsa",
+    "english": "hand",
+    "translation": "hand",
+    "meaning": "The part of the body at the end of the arm used for holding and manipulating objects.",
+    "definition": "The part of the body at the end of the arm used for holding and manipulating objects.",
+    "examples": [
+      "nsa yɛ asɛm a wɔde kyerɛ hand."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "abasa",
+      "yɛ"
+    ],
+    "keywords": [
+      "nsa",
+      "hand",
+      "body"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_body_nan_leg",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "body",
+    "word": "nan",
+    "akan": "nan",
+    "twi": "nan",
+    "english": "leg",
+    "translation": "leg",
+    "meaning": "A limb used for standing and walking.",
+    "definition": "A limb used for standing and walking.",
+    "examples": [
+      "nan yɛ asɛm a wɔde kyerɛ leg."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "nantew",
+      "nante"
+    ],
+    "keywords": [
+      "nan",
+      "leg",
+      "body"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_nature_nsuo_water",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "nature",
+    "word": "nsuo",
+    "akan": "nsuo",
+    "twi": "nsuo",
+    "english": "water",
+    "translation": "water",
+    "meaning": "A liquid essential for life, drinking, agriculture and many human activities.",
+    "definition": "A liquid essential for life, drinking, agriculture and many human activities.",
+    "examples": [
+      "nsuo yɛ asɛm a wɔde kyerɛ water."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "asubɔnten",
+      "po",
+      "osuo"
+    ],
+    "keywords": [
+      "nsuo",
+      "water",
+      "nature"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_nature_osuo_rain",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "nature",
+    "word": "osuo",
+    "akan": "osuo",
+    "twi": "osuo",
+    "english": "rain",
+    "translation": "rain",
+    "meaning": "Water that falls from clouds to the earth.",
+    "definition": "Water that falls from clouds to the earth.",
+    "examples": [
+      "osuo yɛ asɛm a wɔde kyerɛ rain."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "nsuo",
+      "ɔsram",
+      "ewiem"
+    ],
+    "keywords": [
+      "osuo",
+      "rain",
+      "nature"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_nature_ewiem_sky",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "nature",
+    "word": "ewiem",
+    "akan": "ewiem",
+    "twi": "ewiem",
+    "english": "sky",
+    "translation": "sky",
+    "meaning": "The space or apparent region above the earth.",
+    "definition": "The space or apparent region above the earth.",
+    "examples": [
+      "ewiem yɛ asɛm a wɔde kyerɛ sky."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "owia",
+      "ɔsram",
+      "ɔsoro"
+    ],
+    "keywords": [
+      "ewiem",
+      "sky",
+      "nature"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_nature_owia_sun",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "nature",
+    "word": "owia",
+    "akan": "owia",
+    "twi": "owia",
+    "english": "sun",
+    "translation": "sun",
+    "meaning": "The star that provides Earth with light and heat.",
+    "definition": "The star that provides Earth with light and heat.",
+    "examples": [
+      "owia yɛ asɛm a wɔde kyerɛ sun."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "ewiem",
+      "awia"
+    ],
+    "keywords": [
+      "owia",
+      "sun",
+      "nature"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_nature_sram_moon",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "nature",
+    "word": "ɔsram",
+    "akan": "ɔsram",
+    "twi": "ɔsram",
+    "english": "moon",
+    "translation": "moon",
+    "meaning": "The natural satellite of the earth.",
+    "definition": "The natural satellite of the earth.",
+    "examples": [
+      "ɔsram yɛ asɛm a wɔde kyerɛ moon."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "ewiem",
+      "owia"
+    ],
+    "keywords": [
+      "ɔsram",
+      "moon",
+      "nature"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_nature_asub_nten_river",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "nature",
+    "word": "asubɔnten",
+    "akan": "asubɔnten",
+    "twi": "asubɔnten",
+    "english": "river",
+    "translation": "river",
+    "meaning": "A natural flowing body of water.",
+    "definition": "A natural flowing body of water.",
+    "examples": [
+      "asubɔnten yɛ asɛm a wɔde kyerɛ river."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "nsuo",
+      "po"
+    ],
+    "keywords": [
+      "asubɔnten",
+      "river",
+      "nature"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_nature_po_sea",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "nature",
+    "word": "po",
+    "akan": "po",
+    "twi": "po",
+    "english": "sea",
+    "translation": "sea",
+    "meaning": "A large body of salt water connected with an ocean.",
+    "definition": "A large body of salt water connected with an ocean.",
+    "examples": [
+      "po yɛ asɛm a wɔde kyerɛ sea."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "nsuo",
+      "asubɔnten"
+    ],
+    "keywords": [
+      "po",
+      "sea",
+      "nature"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_food_aduane_food",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "food",
+    "word": "aduane",
+    "akan": "aduane",
+    "twi": "aduane",
+    "english": "food",
+    "translation": "food",
+    "meaning": "Something eaten or drunk to provide nourishment.",
+    "definition": "Something eaten or drunk to provide nourishment.",
+    "examples": [
+      "aduane yɛ asɛm a wɔde kyerɛ food."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "didii",
+      "nom",
+      "aduan"
+    ],
+    "keywords": [
+      "aduane",
+      "food",
+      "food"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_food_emo_rice",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "food",
+    "word": "emo",
+    "akan": "emo",
+    "twi": "emo",
+    "english": "rice",
+    "translation": "rice",
+    "meaning": "A cereal grain commonly prepared and eaten as food.",
+    "definition": "A cereal grain commonly prepared and eaten as food.",
+    "examples": [
+      "emo yɛ asɛm a wɔde kyerɛ rice."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "aduane",
+      "nnuane"
+    ],
+    "keywords": [
+      "emo",
+      "rice",
+      "food"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_food_bankye_cassava",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "food",
+    "word": "bankye",
+    "akan": "bankye",
+    "twi": "bankye",
+    "english": "cassava",
+    "translation": "cassava",
+    "meaning": "A root crop widely cultivated and eaten in many parts of Ghana.",
+    "definition": "A root crop widely cultivated and eaten in many parts of Ghana.",
+    "examples": [
+      "bankye yɛ asɛm a wɔde kyerɛ cassava."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "aduane",
+      "dɔnkɔ"
+    ],
+    "keywords": [
+      "bankye",
+      "cassava",
+      "food"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_food_mo_maize",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "food",
+    "word": "ɛmo",
+    "akan": "ɛmo",
+    "twi": "ɛmo",
+    "english": "maize",
+    "translation": "maize",
+    "meaning": "A cereal crop commonly used as food.",
+    "definition": "A cereal crop commonly used as food.",
+    "examples": [
+      "ɛmo yɛ asɛm a wɔde kyerɛ maize."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "aduane",
+      "afifide"
+    ],
+    "keywords": [
+      "ɛmo",
+      "maize",
+      "food"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_food_nkyene_salt",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "food",
+    "word": "nkyene",
+    "akan": "nkyene",
+    "twi": "nkyene",
+    "english": "salt",
+    "translation": "salt",
+    "meaning": "A mineral substance commonly used to season food.",
+    "definition": "A mineral substance commonly used to season food.",
+    "examples": [
+      "nkyene yɛ asɛm a wɔde kyerɛ salt."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "aduane",
+      "no"
+    ],
+    "keywords": [
+      "nkyene",
+      "salt",
+      "food"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_education_sukuu_school",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "education",
+    "word": "sukuu",
+    "akan": "sukuu",
+    "twi": "sukuu",
+    "english": "school",
+    "translation": "school",
+    "meaning": "An institution where people receive organized education.",
+    "definition": "An institution where people receive organized education.",
+    "examples": [
+      "sukuu yɛ asɛm a wɔde kyerɛ school."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "adesua",
+      "ɔkyerɛkyerɛni",
+      "osuani"
+    ],
+    "keywords": [
+      "sukuu",
+      "school",
+      "education"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_education_osuani_student",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "education",
+    "word": "osuani",
+    "akan": "osuani",
+    "twi": "osuani",
+    "english": "student",
+    "translation": "student",
+    "meaning": "A person who is studying or receiving formal education.",
+    "definition": "A person who is studying or receiving formal education.",
+    "examples": [
+      "osuani yɛ asɛm a wɔde kyerɛ student."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "sukuu",
+      "adesua",
+      "ɔkyerɛkyerɛni"
+    ],
+    "keywords": [
+      "osuani",
+      "student",
+      "education"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_education_kyer_kyer_ni_teacher",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "education",
+    "word": "ɔkyerɛkyerɛni",
+    "akan": "ɔkyerɛkyerɛni",
+    "twi": "ɔkyerɛkyerɛni",
+    "english": "teacher",
+    "translation": "teacher",
+    "meaning": "A person whose work involves teaching or educating others.",
+    "definition": "A person whose work involves teaching or educating others.",
+    "examples": [
+      "ɔkyerɛkyerɛni yɛ asɛm a wɔde kyerɛ teacher."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "sukuu",
+      "osuani",
+      "adesua"
+    ],
+    "keywords": [
+      "ɔkyerɛkyerɛni",
+      "teacher",
+      "education"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_education_adesua_lesson",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "education",
+    "word": "adesua",
+    "akan": "adesua",
+    "twi": "adesua",
+    "english": "lesson",
+    "translation": "lesson",
+    "meaning": "A period or unit of organized teaching and learning.",
+    "definition": "A period or unit of organized teaching and learning.",
+    "examples": [
+      "adesua yɛ asɛm a wɔde kyerɛ lesson."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "sukuu",
+      "osuani",
+      "ɔkyerɛkyerɛni"
+    ],
+    "keywords": [
+      "adesua",
+      "lesson",
+      "education"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_education_nhoma_book",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "education",
+    "word": "nhoma",
+    "akan": "nhoma",
+    "twi": "nhoma",
+    "english": "book",
+    "translation": "book",
+    "meaning": "A written or printed work used for reading, learning or reference.",
+    "definition": "A written or printed work used for reading, learning or reference.",
+    "examples": [
+      "nhoma yɛ asɛm a wɔde kyerɛ book."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "kenkan",
+      "adesua",
+      "sukuu"
+    ],
+    "keywords": [
+      "nhoma",
+      "book",
+      "education"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_action_kasa_speak",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "action",
+    "word": "kasa",
+    "akan": "kasa",
+    "twi": "kasa",
+    "english": "speak",
+    "translation": "speak",
+    "meaning": "To communicate using spoken words.",
+    "definition": "To communicate using spoken words.",
+    "examples": [
+      "kasa yɛ asɛm a wɔde kyerɛ speak."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "tie",
+      "ano",
+      "tɛkrɛma"
+    ],
+    "keywords": [
+      "kasa",
+      "speak",
+      "action"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_action_tie_hear",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "action",
+    "word": "tie",
+    "akan": "tie",
+    "twi": "tie",
+    "english": "hear",
+    "translation": "hear",
+    "meaning": "To perceive sound through the ears.",
+    "definition": "To perceive sound through the ears.",
+    "examples": [
+      "tie yɛ asɛm a wɔde kyerɛ hear."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "aso",
+      "kasa"
+    ],
+    "keywords": [
+      "tie",
+      "hear",
+      "action"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_action_hw_look",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "action",
+    "word": "hwɛ",
+    "akan": "hwɛ",
+    "twi": "hwɛ",
+    "english": "look",
+    "translation": "look",
+    "meaning": "To direct the eyes toward something.",
+    "definition": "To direct the eyes toward something.",
+    "examples": [
+      "hwɛ yɛ asɛm a wɔde kyerɛ look."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "ani",
+      "hu"
+    ],
+    "keywords": [
+      "hwɛ",
+      "look",
+      "action"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_action_hu_see",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "action",
+    "word": "hu",
+    "akan": "hu",
+    "twi": "hu",
+    "english": "see",
+    "translation": "see",
+    "meaning": "To perceive something with the eyes.",
+    "definition": "To perceive something with the eyes.",
+    "examples": [
+      "hu yɛ asɛm a wɔde kyerɛ see."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "ani",
+      "hwɛ"
+    ],
+    "keywords": [
+      "hu",
+      "see",
+      "action"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_action_nante_walk",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "action",
+    "word": "nante",
+    "akan": "nante",
+    "twi": "nante",
+    "english": "walk",
+    "translation": "walk",
+    "meaning": "To move from one place to another using the feet.",
+    "definition": "To move from one place to another using the feet.",
+    "examples": [
+      "nante yɛ asɛm a wɔde kyerɛ walk."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "nan",
+      "akwantu"
+    ],
+    "keywords": [
+      "nante",
+      "walk",
+      "action"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_action_di_eat",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "action",
+    "word": "di",
+    "akan": "di",
+    "twi": "di",
+    "english": "eat",
+    "translation": "eat",
+    "meaning": "To take food into the body through the mouth.",
+    "definition": "To take food into the body through the mouth.",
+    "examples": [
+      "di yɛ asɛm a wɔde kyerɛ eat."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "aduane",
+      "nom"
+    ],
+    "keywords": [
+      "di",
+      "eat",
+      "action"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_action_nom_drink",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "action",
+    "word": "nom",
+    "akan": "nom",
+    "twi": "nom",
+    "english": "drink",
+    "translation": "drink",
+    "meaning": "To take liquid into the body through the mouth.",
+    "definition": "To take liquid into the body through the mouth.",
+    "examples": [
+      "nom yɛ asɛm a wɔde kyerɛ drink."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "nsuo",
+      "aduane"
+    ],
+    "keywords": [
+      "nom",
+      "drink",
+      "action"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_education_kenkan_read",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "education",
+    "word": "kenkan",
+    "akan": "kenkan",
+    "twi": "kenkan",
+    "english": "read",
+    "translation": "read",
+    "meaning": "To look at and understand written words.",
+    "definition": "To look at and understand written words.",
+    "examples": [
+      "kenkan yɛ asɛm a wɔde kyerɛ read."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "nhoma",
+      "sukuu",
+      "adesua"
+    ],
+    "keywords": [
+      "kenkan",
+      "read",
+      "education"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_education_kyer_w_write",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "education",
+    "word": "kyerɛw",
+    "akan": "kyerɛw",
+    "twi": "kyerɛw",
+    "english": "write",
+    "translation": "write",
+    "meaning": "To represent words or ideas using written symbols.",
+    "definition": "To represent words or ideas using written symbols.",
+    "examples": [
+      "kyerɛw yɛ asɛm a wɔde kyerɛ write."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "nhoma",
+      "kenkan",
+      "adesua"
+    ],
+    "keywords": [
+      "kyerɛw",
+      "write",
+      "education"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_quality_papa_good",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "quality",
+    "word": "papa",
+    "akan": "papa",
+    "twi": "papa",
+    "english": "good",
+    "translation": "good",
+    "meaning": "Having a desirable, useful or positive quality.",
+    "definition": "Having a desirable, useful or positive quality.",
+    "examples": [
+      "papa yɛ asɛm a wɔde kyerɛ good."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "bɔne"
+    ],
+    "related_words": [
+      "bɔne",
+      "fɛ",
+      "yɛ"
+    ],
+    "keywords": [
+      "papa",
+      "good",
+      "quality"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_quality_b_ne_bad",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "quality",
+    "word": "bɔne",
+    "akan": "bɔne",
+    "twi": "bɔne",
+    "english": "bad",
+    "translation": "bad",
+    "meaning": "Having an undesirable, harmful or negative quality.",
+    "definition": "Having an undesirable, harmful or negative quality.",
+    "examples": [
+      "bɔne yɛ asɛm a wɔde kyerɛ bad."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "papa"
+    ],
+    "related_words": [
+      "papa"
+    ],
+    "keywords": [
+      "bɔne",
+      "bad",
+      "quality"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_quality_k_se_big",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "quality",
+    "word": "kɛse",
+    "akan": "kɛse",
+    "twi": "kɛse",
+    "english": "big",
+    "translation": "big",
+    "meaning": "Large in size, extent or importance.",
+    "definition": "Large in size, extent or importance.",
+    "examples": [
+      "kɛse yɛ asɛm a wɔde kyerɛ big."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "ketewa"
+    ],
+    "related_words": [
+      "ketewa"
+    ],
+    "keywords": [
+      "kɛse",
+      "big",
+      "quality"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_quality_ketewa_small",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "quality",
+    "word": "ketewa",
+    "akan": "ketewa",
+    "twi": "ketewa",
+    "english": "small",
+    "translation": "small",
+    "meaning": "Limited in size or extent.",
+    "definition": "Limited in size or extent.",
+    "examples": [
+      "ketewa yɛ asɛm a wɔde kyerɛ small."
+    ],
+    "synonyms": [],
+    "antonyms": [
+      "kɛse"
+    ],
+    "related_words": [
+      "kɛse"
+    ],
+    "keywords": [
+      "ketewa",
+      "small",
+      "quality"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_quality_f_beautiful",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "quality",
+    "word": "fɛ",
+    "akan": "fɛ",
+    "twi": "fɛ",
+    "english": "beautiful",
+    "translation": "beautiful",
+    "meaning": "Having qualities that are pleasing to the senses or admired.",
+    "definition": "Having qualities that are pleasing to the senses or admired.",
+    "examples": [
+      "fɛ yɛ asɛm a wɔde kyerɛ beautiful."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "papa"
+    ],
+    "keywords": [
+      "fɛ",
+      "beautiful",
+      "quality"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_quality_nyansa_wisdom",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "quality",
+    "word": "nyansa",
+    "akan": "nyansa",
+    "twi": "nyansa",
+    "english": "wisdom",
+    "translation": "wisdom",
+    "meaning": "The ability to make sound judgments based on knowledge and experience.",
+    "definition": "The ability to make sound judgments based on knowledge and experience.",
+    "examples": [
+      "nyansa yɛ asɛm a wɔde kyerɛ wisdom."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "nimdeɛ",
+      "osuahunu"
+    ],
+    "keywords": [
+      "nyansa",
+      "wisdom",
+      "quality"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_education_nimde_knowledge",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "education",
+    "word": "nimdeɛ",
+    "akan": "nimdeɛ",
+    "twi": "nimdeɛ",
+    "english": "knowledge",
+    "translation": "knowledge",
+    "meaning": "Understanding or awareness gained through learning or experience.",
+    "definition": "Understanding or awareness gained through learning or experience.",
+    "examples": [
+      "nimdeɛ yɛ asɛm a wɔde kyerɛ knowledge."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "nyansa",
+      "adesua"
+    ],
+    "keywords": [
+      "nimdeɛ",
+      "knowledge",
+      "education"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_time_da_day",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "time",
+    "word": "da",
+    "akan": "da",
+    "twi": "da",
+    "english": "day",
+    "translation": "day",
+    "meaning": "A period associated with daylight or a twenty-four-hour period.",
+    "definition": "A period associated with daylight or a twenty-four-hour period.",
+    "examples": [
+      "da yɛ asɛm a wɔde kyerɛ day."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "anɔpa",
+      "awia",
+      "anadwo"
+    ],
+    "keywords": [
+      "da",
+      "day",
+      "time"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_time_an_pa_morning",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "time",
+    "word": "anɔpa",
+    "akan": "anɔpa",
+    "twi": "anɔpa",
+    "english": "morning",
+    "translation": "morning",
+    "meaning": "The early part of the day.",
+    "definition": "The early part of the day.",
+    "examples": [
+      "anɔpa yɛ asɛm a wɔde kyerɛ morning."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "da",
+      "awia"
+    ],
+    "keywords": [
+      "anɔpa",
+      "morning",
+      "time"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_time_awia_afternoon",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "time",
+    "word": "awia",
+    "akan": "awia",
+    "twi": "awia",
+    "english": "afternoon",
+    "translation": "afternoon",
+    "meaning": "The part of the day after midday and before evening.",
+    "definition": "The part of the day after midday and before evening.",
+    "examples": [
+      "awia yɛ asɛm a wɔde kyerɛ afternoon."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "anɔpa",
+      "anadwo"
+    ],
+    "keywords": [
+      "awia",
+      "afternoon",
+      "time"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_time_anadwo_night",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "time",
+    "word": "anadwo",
+    "akan": "anadwo",
+    "twi": "anadwo",
+    "english": "night",
+    "translation": "night",
+    "meaning": "The period of darkness after evening.",
+    "definition": "The period of darkness after evening.",
+    "examples": [
+      "anadwo yɛ asɛm a wɔde kyerɛ night."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "da",
+      "awia",
+      "anɔpa"
+    ],
+    "keywords": [
+      "anadwo",
+      "night",
+      "time"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_time_nn_today",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "time",
+    "word": "ɛnnɛ",
+    "akan": "ɛnnɛ",
+    "twi": "ɛnnɛ",
+    "english": "today",
+    "translation": "today",
+    "meaning": "The current day.",
+    "definition": "The current day.",
+    "examples": [
+      "ɛnnɛ yɛ asɛm a wɔde kyerɛ today."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "nkyɛ",
+      "ɔkyena"
+    ],
+    "keywords": [
+      "ɛnnɛ",
+      "today",
+      "time"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  },
+  {
+    "id": "akan_vocab_time_kyena_tomorrow",
+    "language": "Akan",
+    "language_variant": "Twi",
+    "type": "vocabulary",
+    "category": "time",
+    "word": "ɔkyena",
+    "akan": "ɔkyena",
+    "twi": "ɔkyena",
+    "english": "tomorrow",
+    "translation": "tomorrow",
+    "meaning": "The day after today.",
+    "definition": "The day after today.",
+    "examples": [
+      "ɔkyena yɛ asɛm a wɔde kyerɛ tomorrow."
+    ],
+    "synonyms": [],
+    "antonyms": [],
+    "related_words": [
+      "ɛnnɛ"
+    ],
+    "keywords": [
+      "ɔkyena",
+      "tomorrow",
+      "time"
+    ],
+    "source": "akan_curated_vocabulary_expansion",
+    "version": "1.0",
+    "quality": "curated"
+  }
+]

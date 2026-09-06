@@ -1,0 +1,2 @@
+data/educational_knowledge.json filter=lfs diff=lfs merge=lfs -text
+data/akan/akan_knowledge_base_scaled.json filter=lfs diff=lfs merge=lfs -text

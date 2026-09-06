@@ -1,0 +1,54 @@
+{
+  "version": "1.0",
+  "pipeline": {
+    "curated_file": "D:\\Robert Gaisie Yawson\\Eric-Amponsah-Project-final\\project\\intelligent-qa-chatbot-final\\data\\akan\\akan_knowledge_base.json",
+    "scaled_file": "D:\\Robert Gaisie Yawson\\Eric-Amponsah-Project-final\\project\\intelligent-qa-chatbot-final\\data\\akan\\akan_knowledge_base_scaled.json",
+    "external_file": "D:\\Robert Gaisie Yawson\\Eric-Amponsah-Project-final\\project\\intelligent-qa-chatbot-final\\data\\akan\\sources\\ghana_qa_twi_import.json",
+    "merged_file": "D:\\Robert Gaisie Yawson\\Eric-Amponsah-Project-final\\project\\intelligent-qa-chatbot-final\\data\\akan\\akan_knowledge_base_validated.json",
+    "quarantine_file": "D:\\Robert Gaisie Yawson\\Eric-Amponsah-Project-final\\project\\intelligent-qa-chatbot-final\\data\\akan\\akan_quarantine.json",
+    "review_file": "D:\\Robert Gaisie Yawson\\Eric-Amponsah-Project-final\\project\\intelligent-qa-chatbot-final\\data\\akan\\akan_review_queue.json"
+  },
+  "input_counts": {
+    "curated": 373,
+    "scaled": 1,
+    "external": 0
+  },
+  "output_counts": {
+    "validated": 0,
+    "quarantine": 374,
+    "review": 0
+  },
+  "growth": {
+    "curated_records": 373,
+    "validated_records": 0,
+    "net_increase": -373,
+    "growth_factor": 0.0
+  },
+  "milestones": {
+    "373": false,
+    "1000": false,
+    "2000": false,
+    "5000": false,
+    "10000": false,
+    "15000": false,
+    "20000": false
+  },
+  "statistics": {
+    "curated_total": 373,
+    "curated_invalid": 373,
+    "scaled_total": 1,
+    "scaled_invalid": 1,
+    "final_records": 0,
+    "quarantine_records": 374,
+    "review_records": 0
+  },
+  "distribution": {
+    "categories": {},
+    "types": {},
+    "languages": {},
+    "record_roles": {},
+    "intents": {},
+    "sources": {},
+    "quality": {}
+  }
+}

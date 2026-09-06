@@ -1,0 +1,344 @@
+[
+  {
+    "id": "record_412993",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Nsuo yɛ dɛn?",
+    "twi": "Nsuo yɛ adeɛ a ɛho hia ma nkwa. Nnipa, mmoa ne afifideɛ hia nsuo na wɔatena ase.",
+    "category": "translation"
+  },
+  {
+    "id": "record_126592",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne sukuu?",
+    "twi": "Sukuu yɛ beaeɛ a asuafoɔ kɔ sua adeɛ na wɔnya nimdeɛ ne nteteeɛ.",
+    "category": "translation"
+  },
+  {
+    "id": "record_462253",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne kɔmputa?",
+    "twi": "Kɔmputa yɛ mfiri a ɛtumi gye nsɛm, yɛ ho adwuma, sie nsɛm na ɛma nsɛm a wɔhwehwɛ ba.",
+    "category": "translation"
+  },
+  {
+    "id": "record_190681",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne artificial intelligence?",
+    "twi": "Artificial intelligence yɛ mfiridwuma a ɛma kɔmputa tumi yɛ nnwuma bi a mpɛn pii no nnipa na wɔyɛ.",
+    "category": "translation"
+  },
+  {
+    "id": "record_867048",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne machine learning?",
+    "twi": "Machine learning yɛ AI fã a ɛma kɔmputa sua nsusuiɛ ne nhwɛsoɔ fi data mu na ɛde yɛ nkɔmhyɛ anaa gyinaesi.",
+    "category": "translation"
+  },
+  {
+    "id": "record_597558",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne internet?",
+    "twi": "Internet yɛ kɔmputa ne nkitahodie nhyehyɛe kɛseɛ a ɛma mfiri ne nnipa tumi di nkitaho wɔ wiase nyinaa.",
+    "category": "translation"
+  },
+  {
+    "id": "record_116966",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne data?",
+    "twi": "Data yɛ nsɛm anaa nneɛma a wɔaboaboa ano sɛnea ɛbɛyɛ yie sɛ wɔde yɛ nhwehwɛmu anaa gyinaesi.",
+    "category": "translation"
+  },
+  {
+    "id": "record_521857",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne database?",
+    "twi": "Database yɛ data a wɔahyehyɛ no sɛnea ɛbɛyɛ yie sɛ wɔbɛsie, ahwehwɛ na wɔayɛ nsakraeɛ wɔ ho.",
+    "category": "translation"
+  },
+  {
+    "id": "record_521459",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne cybersecurity?",
+    "twi": "Cybersecurity yɛ akwan a wɔfa so bɔ kɔmputa, network, application ne data ho ban fi nneɛma a wɔmma ho kwan ho.",
+    "category": "translation"
+  },
+  {
+    "id": "record_718758",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne network?",
+    "twi": "Network yɛ mfiri a wɔaka abom sɛnea ɛbɛyɛ yie sɛ wɔne wɔn ho wɔn ho bɛdi nkitaho na wɔakyɛ nneɛma.",
+    "category": "translation"
+  },
+  {
+    "id": "record_767342",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne router?",
+    "twi": "Router yɛ network mfiri a ɛde data packets fi network baako kɔ network foforɔ mu.",
+    "category": "translation"
+  },
+  {
+    "id": "record_66117",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne switch?",
+    "twi": "Switch yɛ network mfiri a ɛka mfiri bom wɔ local network mu na ɛde data kɔ destination device no nkyɛn.",
+    "category": "translation"
+  },
+  {
+    "id": "record_724535",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne password?",
+    "twi": "Password yɛ ahintasɛm nsɛm a wɔde hwɛ sɛ obi a ɔrebɔ system no mu no wɔ kwan sɛ ɔbɛkɔ mu.",
+    "category": "translation"
+  },
+  {
+    "id": "record_137124",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne authentication?",
+    "twi": "Authentication yɛ ɔkwan a wɔfa so hwɛ sɛnea obi anaa mfiri no yɛ nea ɔkyerɛ sɛ ɔyɛ no ankasa.",
+    "category": "translation"
+  },
+  {
+    "id": "record_443303",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne education?",
+    "twi": "Education yɛ adesua ne nteteeɛ a ɛboa obi nya nimdeɛ, nimdeɛ a wɔde yɛ adwuma, ne suban pa.",
+    "category": "translation"
+  },
+  {
+    "id": "record_335761",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne ɔdɔ?",
+    "twi": "Ɔdɔ yɛ nkateɛ a ɛma obi kyerɛ obi foforɔ ayamye, ahummɔborɔ ne ɔpɛ pa.",
+    "category": "translation"
+  },
+  {
+    "id": "record_115607",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne anigyeɛ?",
+    "twi": "Anigyeɛ yɛ tebea a obi te nka sɛ ne ho yɛ no fɛ na ne koma ani gye.",
+    "category": "translation"
+  },
+  {
+    "id": "record_451922",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne ahokyere?",
+    "twi": "Ahokyere yɛ tebea a ɛma obi hyia ɔhaw anaa adwene mu nnesoɔ na ɛhia mmoa anaa ano aduru.",
+    "category": "translation"
+  },
+  {
+    "id": "record_43773",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne Twi?",
+    "twi": "Twi yɛ Akan kasa a nnipa pii ka wɔ Ghana, titiriw Asante ne Akuapem Twi kasafoɔ mu.",
+    "category": "translation"
+  },
+  {
+    "id": "record_897984",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne Ghana?",
+    "twi": "Ghana yɛ ɔman a ɛwɔ West Africa na ne kurow kɛseɛ ne Accra.",
+    "category": "translation"
+  },
+  {
+    "id": "record_860509",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne computer science?",
+    "twi": "Computer science yɛ adesua a ɛfa kɔmputa, algorithms, software, data ne ɔhaw ahodoɔ a wɔde kɔmputa di ho.",
+    "category": "translation"
+  },
+  {
+    "id": "record_617115",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne programming?",
+    "twi": "Programming yɛ ɔkwan a wɔfa so kyerɛ kɔmputa nea ɛsɛ sɛ ɛyɛ denam code a wɔkyerɛw so.",
+    "category": "translation"
+  },
+  {
+    "id": "record_633278",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne Python?",
+    "twi": "Python yɛ programming kasa a ne syntax yɛ mmerɛw sɛ wɔbɛkenkan na wɔde yɛ web development, data science ne machine learning.",
+    "category": "translation"
+  },
+  {
+    "id": "record_474231",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne web development?",
+    "twi": "Web development yɛ web pages ne web applications a wɔyɛ na wɔhwɛ so denam HTML, CSS, JavaScript ne server technologies so.",
+    "category": "translation"
+  },
+  {
+    "id": "record_482725",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne artificial intelligence mfaso?",
+    "twi": "AI betumi aboa wɔ healthcare, education, banking, transportation ne customer service mu denam automation ne data analysis so.",
+    "category": "translation"
+  },
+  {
+    "id": "record_814153",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne machine learning mfaso?",
+    "twi": "Machine learning betumi aboa ma wɔde data ayɛ nkɔmhyɛ, ahu nhwɛsoɔ na wɔama gyinaesi ayɛ ntɛm.",
+    "category": "translation"
+  },
+  {
+    "id": "record_8997",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne information?",
+    "twi": "Information yɛ data a wɔayɛ ho adwuma na wɔama no ase sɛnea ɛbɛyɛ yie sɛ ɛbɛma nteaseɛ ne nimdeɛ.",
+    "category": "translation"
+  },
+  {
+    "id": "record_534522",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne mobile phone?",
+    "twi": "Mobile phone yɛ ɛlɛtrɔnik mfiri a wɔde di nkitaho, frɛ, kyerɛw nsɛm na wɔde internet di dwuma.",
+    "category": "translation"
+  },
+  {
+    "id": "record_408071",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne social media?",
+    "twi": "Social media yɛ online platforms a ɛma nnipa tumi di nkitaho, kyɛ nsɛm na wɔyɛ community.",
+    "category": "translation"
+  },
+  {
+    "id": "record_570210",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne cloud computing?",
+    "twi": "Cloud computing yɛ ɔkwan a wɔfa so de computing resources te sɛ storage ne processing ma obi wɔ network so bere a ɔhia no.",
+    "category": "translation"
+  },
+  {
+    "id": "record_980195",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne IoT?",
+    "twi": "Internet of Things yɛ mfiri a sensors ne connectivity wom a ɛtumi boaboa data ano na ɛde data no fa network so.",
+    "category": "translation"
+  },
+  {
+    "id": "record_257917",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne data analysis?",
+    "twi": "Data analysis yɛ ɔkwan a wɔfa so hwehwɛ data, te ase na wɔde nya nsɛm a ɛboa gyinaesi.",
+    "category": "translation"
+  },
+  {
+    "id": "record_280559",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne database management system?",
+    "twi": "DBMS yɛ software a wɔde yɛ, sie, hwehwɛ, sesa na wɔhwɛ databases so.",
+    "category": "translation"
+  },
+  {
+    "id": "record_825214",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne encryption?",
+    "twi": "Encryption yɛ ɔkwan a wɔfa so sesa readable data ma ɛyɛ encoded form sɛnea nnipa a wɔmma ho kwan rentumi nkenkan no ntɛm.",
+    "category": "translation"
+  },
+  {
+    "id": "record_102299",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne firewall?",
+    "twi": "Firewall yɛ security control a ɛhwɛ network traffic na ɛma anaa ɛbara connections sɛnea security rules kyerɛ.",
+    "category": "translation"
+  },
+  {
+    "id": "record_86377",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne phishing?",
+    "twi": "Phishing yɛ nnaadaa a wɔde bɔ mmɔden sɛ wɔbɛma obi ama wɔn password anaa personal information denam nkra anaa website a ɛyɛ nnaadaa so.",
+    "category": "translation"
+  },
+  {
+    "id": "record_556222",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne chatbot?",
+    "twi": "Chatbot yɛ software a ɛne nnipa di nkitaho denam kasa a nnipa de di dwuma so.",
+    "category": "translation"
+  },
+  {
+    "id": "record_899013",
+    "source": "GhanaNLP",
+    "language": "Twi",
+    "source_language": "Twi",
+    "english": "Dɛn ne question answering system?",
+    "twi": "Question answering system yɛ application a egye asɛmmisa fi user hɔ na ɛhwehwɛ anaa ɛyɛ answer a ɛfa asɛmmisa no ho.",
+    "category": "translation"
+  }
+]

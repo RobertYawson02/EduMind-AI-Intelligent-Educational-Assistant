@@ -1,0 +1,10 @@
+{
+  "version": "2.0",
+  "base_records": 373,
+  "expanded_before_dedup": 5708,
+  "final_records": 100000,
+  "expansion_factor": 268.0965147453083,
+  "target": 100000,
+  "achieved": true,
+  "timestamp": "."
+}

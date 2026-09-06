@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+data/conversations.sqlite3
+data/datasets/downloads/
+.env

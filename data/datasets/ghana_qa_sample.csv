@@ -1,0 +1,39 @@
+question,answer,lang
+"Nsuo yɛ dɛn?","Nsuo yɛ adeɛ a ɛho hia ma nkwa. Nnipa, mmoa ne afifideɛ hia nsuo na wɔatena ase.",twi
+"Dɛn ne sukuu?","Sukuu yɛ beaeɛ a asuafoɔ kɔ sua adeɛ na wɔnya nimdeɛ ne nteteeɛ.",twi
+"Dɛn ne kɔmputa?","Kɔmputa yɛ mfiri a ɛtumi gye nsɛm, yɛ ho adwuma, sie nsɛm na ɛma nsɛm a wɔhwehwɛ ba.",twi
+"Dɛn ne artificial intelligence?","Artificial intelligence yɛ mfiridwuma a ɛma kɔmputa tumi yɛ nnwuma bi a mpɛn pii no nnipa na wɔyɛ.",twi
+"Dɛn ne machine learning?","Machine learning yɛ AI fã a ɛma kɔmputa sua nsusuiɛ ne nhwɛsoɔ fi data mu na ɛde yɛ nkɔmhyɛ anaa gyinaesi.",twi
+"Dɛn ne internet?","Internet yɛ kɔmputa ne nkitahodie nhyehyɛe kɛseɛ a ɛma mfiri ne nnipa tumi di nkitaho wɔ wiase nyinaa.",twi
+"Dɛn ne data?","Data yɛ nsɛm anaa nneɛma a wɔaboaboa ano sɛnea ɛbɛyɛ yie sɛ wɔde yɛ nhwehwɛmu anaa gyinaesi.",twi
+"Dɛn ne database?","Database yɛ data a wɔahyehyɛ no sɛnea ɛbɛyɛ yie sɛ wɔbɛsie, ahwehwɛ na wɔayɛ nsakraeɛ wɔ ho.",twi
+"Dɛn ne cybersecurity?","Cybersecurity yɛ akwan a wɔfa so bɔ kɔmputa, network, application ne data ho ban fi nneɛma a wɔmma ho kwan ho.",twi
+"Dɛn ne network?","Network yɛ mfiri a wɔaka abom sɛnea ɛbɛyɛ yie sɛ wɔne wɔn ho wɔn ho bɛdi nkitaho na wɔakyɛ nneɛma.",twi
+"Dɛn ne router?","Router yɛ network mfiri a ɛde data packets fi network baako kɔ network foforɔ mu.",twi
+"Dɛn ne switch?","Switch yɛ network mfiri a ɛka mfiri bom wɔ local network mu na ɛde data kɔ destination device no nkyɛn.",twi
+"Dɛn ne password?","Password yɛ ahintasɛm nsɛm a wɔde hwɛ sɛ obi a ɔrebɔ system no mu no wɔ kwan sɛ ɔbɛkɔ mu.",twi
+"Dɛn ne authentication?","Authentication yɛ ɔkwan a wɔfa so hwɛ sɛnea obi anaa mfiri no yɛ nea ɔkyerɛ sɛ ɔyɛ no ankasa.",twi
+"Dɛn ne education?","Education yɛ adesua ne nteteeɛ a ɛboa obi nya nimdeɛ, nimdeɛ a wɔde yɛ adwuma, ne suban pa.",twi
+"Dɛn ne ɔdɔ?","Ɔdɔ yɛ nkateɛ a ɛma obi kyerɛ obi foforɔ ayamye, ahummɔborɔ ne ɔpɛ pa.",twi
+"Dɛn ne anigyeɛ?","Anigyeɛ yɛ tebea a obi te nka sɛ ne ho yɛ no fɛ na ne koma ani gye.",twi
+"Dɛn ne ahokyere?","Ahokyere yɛ tebea a ɛma obi hyia ɔhaw anaa adwene mu nnesoɔ na ɛhia mmoa anaa ano aduru.",twi
+"Dɛn ne Twi?","Twi yɛ Akan kasa a nnipa pii ka wɔ Ghana, titiriw Asante ne Akuapem Twi kasafoɔ mu.",twi
+"Dɛn ne Ghana?","Ghana yɛ ɔman a ɛwɔ West Africa na ne kurow kɛseɛ ne Accra.",twi
+"Dɛn ne computer science?","Computer science yɛ adesua a ɛfa kɔmputa, algorithms, software, data ne ɔhaw ahodoɔ a wɔde kɔmputa di ho.",twi
+"Dɛn ne programming?","Programming yɛ ɔkwan a wɔfa so kyerɛ kɔmputa nea ɛsɛ sɛ ɛyɛ denam code a wɔkyerɛw so.",twi
+"Dɛn ne Python?","Python yɛ programming kasa a ne syntax yɛ mmerɛw sɛ wɔbɛkenkan na wɔde yɛ web development, data science ne machine learning.",twi
+"Dɛn ne web development?","Web development yɛ web pages ne web applications a wɔyɛ na wɔhwɛ so denam HTML, CSS, JavaScript ne server technologies so.",twi
+"Dɛn ne artificial intelligence mfaso?","AI betumi aboa wɔ healthcare, education, banking, transportation ne customer service mu denam automation ne data analysis so.",twi
+"Dɛn ne machine learning mfaso?","Machine learning betumi aboa ma wɔde data ayɛ nkɔmhyɛ, ahu nhwɛsoɔ na wɔama gyinaesi ayɛ ntɛm.",twi
+"Dɛn ne information?","Information yɛ data a wɔayɛ ho adwuma na wɔama no ase sɛnea ɛbɛyɛ yie sɛ ɛbɛma nteaseɛ ne nimdeɛ.",twi
+"Dɛn ne mobile phone?","Mobile phone yɛ ɛlɛtrɔnik mfiri a wɔde di nkitaho, frɛ, kyerɛw nsɛm na wɔde internet di dwuma.",twi
+"Dɛn ne social media?","Social media yɛ online platforms a ɛma nnipa tumi di nkitaho, kyɛ nsɛm na wɔyɛ community.",twi
+"Dɛn ne cloud computing?","Cloud computing yɛ ɔkwan a wɔfa so de computing resources te sɛ storage ne processing ma obi wɔ network so bere a ɔhia no.",twi
+"Dɛn ne IoT?","Internet of Things yɛ mfiri a sensors ne connectivity wom a ɛtumi boaboa data ano na ɛde data no fa network so.",twi
+"Dɛn ne data analysis?","Data analysis yɛ ɔkwan a wɔfa so hwehwɛ data, te ase na wɔde nya nsɛm a ɛboa gyinaesi.",twi
+"Dɛn ne database management system?","DBMS yɛ software a wɔde yɛ, sie, hwehwɛ, sesa na wɔhwɛ databases so.",twi
+"Dɛn ne encryption?","Encryption yɛ ɔkwan a wɔfa so sesa readable data ma ɛyɛ encoded form sɛnea nnipa a wɔmma ho kwan rentumi nkenkan no ntɛm.",twi
+"Dɛn ne firewall?","Firewall yɛ security control a ɛhwɛ network traffic na ɛma anaa ɛbara connections sɛnea security rules kyerɛ.",twi
+"Dɛn ne phishing?","Phishing yɛ nnaadaa a wɔde bɔ mmɔden sɛ wɔbɛma obi ama wɔn password anaa personal information denam nkra anaa website a ɛyɛ nnaadaa so.",twi
+"Dɛn ne chatbot?","Chatbot yɛ software a ɛne nnipa di nkitaho denam kasa a nnipa de di dwuma so.",twi
+"Dɛn ne question answering system?","Question answering system yɛ application a egye asɛmmisa fi user hɔ na ɛhwehwɛ anaa ɛyɛ answer a ɛfa asɛmmisa no ho.",twi

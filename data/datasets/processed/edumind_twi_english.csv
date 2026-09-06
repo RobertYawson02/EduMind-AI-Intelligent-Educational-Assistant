@@ -1,0 +1,39 @@
+id,source,language,source_language,english,twi,category
+record_412993,GhanaNLP,Twi,Twi,Nsuo yɛ dɛn?,"Nsuo yɛ adeɛ a ɛho hia ma nkwa. Nnipa, mmoa ne afifideɛ hia nsuo na wɔatena ase.",translation
+record_126592,GhanaNLP,Twi,Twi,Dɛn ne sukuu?,Sukuu yɛ beaeɛ a asuafoɔ kɔ sua adeɛ na wɔnya nimdeɛ ne nteteeɛ.,translation
+record_462253,GhanaNLP,Twi,Twi,Dɛn ne kɔmputa?,"Kɔmputa yɛ mfiri a ɛtumi gye nsɛm, yɛ ho adwuma, sie nsɛm na ɛma nsɛm a wɔhwehwɛ ba.",translation
+record_190681,GhanaNLP,Twi,Twi,Dɛn ne artificial intelligence?,Artificial intelligence yɛ mfiridwuma a ɛma kɔmputa tumi yɛ nnwuma bi a mpɛn pii no nnipa na wɔyɛ.,translation
+record_867048,GhanaNLP,Twi,Twi,Dɛn ne machine learning?,Machine learning yɛ AI fã a ɛma kɔmputa sua nsusuiɛ ne nhwɛsoɔ fi data mu na ɛde yɛ nkɔmhyɛ anaa gyinaesi.,translation
+record_597558,GhanaNLP,Twi,Twi,Dɛn ne internet?,Internet yɛ kɔmputa ne nkitahodie nhyehyɛe kɛseɛ a ɛma mfiri ne nnipa tumi di nkitaho wɔ wiase nyinaa.,translation
+record_116966,GhanaNLP,Twi,Twi,Dɛn ne data?,Data yɛ nsɛm anaa nneɛma a wɔaboaboa ano sɛnea ɛbɛyɛ yie sɛ wɔde yɛ nhwehwɛmu anaa gyinaesi.,translation
+record_521857,GhanaNLP,Twi,Twi,Dɛn ne database?,"Database yɛ data a wɔahyehyɛ no sɛnea ɛbɛyɛ yie sɛ wɔbɛsie, ahwehwɛ na wɔayɛ nsakraeɛ wɔ ho.",translation
+record_521459,GhanaNLP,Twi,Twi,Dɛn ne cybersecurity?,"Cybersecurity yɛ akwan a wɔfa so bɔ kɔmputa, network, application ne data ho ban fi nneɛma a wɔmma ho kwan ho.",translation
+record_718758,GhanaNLP,Twi,Twi,Dɛn ne network?,Network yɛ mfiri a wɔaka abom sɛnea ɛbɛyɛ yie sɛ wɔne wɔn ho wɔn ho bɛdi nkitaho na wɔakyɛ nneɛma.,translation
+record_767342,GhanaNLP,Twi,Twi,Dɛn ne router?,Router yɛ network mfiri a ɛde data packets fi network baako kɔ network foforɔ mu.,translation
+record_66117,GhanaNLP,Twi,Twi,Dɛn ne switch?,Switch yɛ network mfiri a ɛka mfiri bom wɔ local network mu na ɛde data kɔ destination device no nkyɛn.,translation
+record_724535,GhanaNLP,Twi,Twi,Dɛn ne password?,Password yɛ ahintasɛm nsɛm a wɔde hwɛ sɛ obi a ɔrebɔ system no mu no wɔ kwan sɛ ɔbɛkɔ mu.,translation
+record_137124,GhanaNLP,Twi,Twi,Dɛn ne authentication?,Authentication yɛ ɔkwan a wɔfa so hwɛ sɛnea obi anaa mfiri no yɛ nea ɔkyerɛ sɛ ɔyɛ no ankasa.,translation
+record_443303,GhanaNLP,Twi,Twi,Dɛn ne education?,"Education yɛ adesua ne nteteeɛ a ɛboa obi nya nimdeɛ, nimdeɛ a wɔde yɛ adwuma, ne suban pa.",translation
+record_335761,GhanaNLP,Twi,Twi,Dɛn ne ɔdɔ?,"Ɔdɔ yɛ nkateɛ a ɛma obi kyerɛ obi foforɔ ayamye, ahummɔborɔ ne ɔpɛ pa.",translation
+record_115607,GhanaNLP,Twi,Twi,Dɛn ne anigyeɛ?,Anigyeɛ yɛ tebea a obi te nka sɛ ne ho yɛ no fɛ na ne koma ani gye.,translation
+record_451922,GhanaNLP,Twi,Twi,Dɛn ne ahokyere?,Ahokyere yɛ tebea a ɛma obi hyia ɔhaw anaa adwene mu nnesoɔ na ɛhia mmoa anaa ano aduru.,translation
+record_43773,GhanaNLP,Twi,Twi,Dɛn ne Twi?,"Twi yɛ Akan kasa a nnipa pii ka wɔ Ghana, titiriw Asante ne Akuapem Twi kasafoɔ mu.",translation
+record_897984,GhanaNLP,Twi,Twi,Dɛn ne Ghana?,Ghana yɛ ɔman a ɛwɔ West Africa na ne kurow kɛseɛ ne Accra.,translation
+record_860509,GhanaNLP,Twi,Twi,Dɛn ne computer science?,"Computer science yɛ adesua a ɛfa kɔmputa, algorithms, software, data ne ɔhaw ahodoɔ a wɔde kɔmputa di ho.",translation
+record_617115,GhanaNLP,Twi,Twi,Dɛn ne programming?,Programming yɛ ɔkwan a wɔfa so kyerɛ kɔmputa nea ɛsɛ sɛ ɛyɛ denam code a wɔkyerɛw so.,translation
+record_633278,GhanaNLP,Twi,Twi,Dɛn ne Python?,"Python yɛ programming kasa a ne syntax yɛ mmerɛw sɛ wɔbɛkenkan na wɔde yɛ web development, data science ne machine learning.",translation
+record_474231,GhanaNLP,Twi,Twi,Dɛn ne web development?,"Web development yɛ web pages ne web applications a wɔyɛ na wɔhwɛ so denam HTML, CSS, JavaScript ne server technologies so.",translation
+record_482725,GhanaNLP,Twi,Twi,Dɛn ne artificial intelligence mfaso?,"AI betumi aboa wɔ healthcare, education, banking, transportation ne customer service mu denam automation ne data analysis so.",translation
+record_814153,GhanaNLP,Twi,Twi,Dɛn ne machine learning mfaso?,"Machine learning betumi aboa ma wɔde data ayɛ nkɔmhyɛ, ahu nhwɛsoɔ na wɔama gyinaesi ayɛ ntɛm.",translation
+record_8997,GhanaNLP,Twi,Twi,Dɛn ne information?,Information yɛ data a wɔayɛ ho adwuma na wɔama no ase sɛnea ɛbɛyɛ yie sɛ ɛbɛma nteaseɛ ne nimdeɛ.,translation
+record_534522,GhanaNLP,Twi,Twi,Dɛn ne mobile phone?,"Mobile phone yɛ ɛlɛtrɔnik mfiri a wɔde di nkitaho, frɛ, kyerɛw nsɛm na wɔde internet di dwuma.",translation
+record_408071,GhanaNLP,Twi,Twi,Dɛn ne social media?,"Social media yɛ online platforms a ɛma nnipa tumi di nkitaho, kyɛ nsɛm na wɔyɛ community.",translation
+record_570210,GhanaNLP,Twi,Twi,Dɛn ne cloud computing?,Cloud computing yɛ ɔkwan a wɔfa so de computing resources te sɛ storage ne processing ma obi wɔ network so bere a ɔhia no.,translation
+record_980195,GhanaNLP,Twi,Twi,Dɛn ne IoT?,Internet of Things yɛ mfiri a sensors ne connectivity wom a ɛtumi boaboa data ano na ɛde data no fa network so.,translation
+record_257917,GhanaNLP,Twi,Twi,Dɛn ne data analysis?,"Data analysis yɛ ɔkwan a wɔfa so hwehwɛ data, te ase na wɔde nya nsɛm a ɛboa gyinaesi.",translation
+record_280559,GhanaNLP,Twi,Twi,Dɛn ne database management system?,"DBMS yɛ software a wɔde yɛ, sie, hwehwɛ, sesa na wɔhwɛ databases so.",translation
+record_825214,GhanaNLP,Twi,Twi,Dɛn ne encryption?,Encryption yɛ ɔkwan a wɔfa so sesa readable data ma ɛyɛ encoded form sɛnea nnipa a wɔmma ho kwan rentumi nkenkan no ntɛm.,translation
+record_102299,GhanaNLP,Twi,Twi,Dɛn ne firewall?,Firewall yɛ security control a ɛhwɛ network traffic na ɛma anaa ɛbara connections sɛnea security rules kyerɛ.,translation
+record_86377,GhanaNLP,Twi,Twi,Dɛn ne phishing?,Phishing yɛ nnaadaa a wɔde bɔ mmɔden sɛ wɔbɛma obi ama wɔn password anaa personal information denam nkra anaa website a ɛyɛ nnaadaa so.,translation
+record_556222,GhanaNLP,Twi,Twi,Dɛn ne chatbot?,Chatbot yɛ software a ɛne nnipa di nkitaho denam kasa a nnipa de di dwuma so.,translation
+record_899013,GhanaNLP,Twi,Twi,Dɛn ne question answering system?,Question answering system yɛ application a egye asɛmmisa fi user hɔ na ɛhwehwɛ anaa ɛyɛ answer a ɛfa asɛmmisa no ho.,translation

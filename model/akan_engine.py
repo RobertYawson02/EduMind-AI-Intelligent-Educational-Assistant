@@ -134,8 +134,36 @@ def load_dictionary():
         return []
 
 
+class LazyDictionary:
+    """Lazy list wrapper to defer the large Akan dataset until it is actually used."""
+
+    def __init__(self, loader):
+        self.loader = loader
+        self._cache = None
+
+    def _load(self):
+        if self._cache is None:
+            self._cache = self.loader()
+        return self._cache
+
+    def __iter__(self):
+        return iter(self._load())
+
+    def __len__(self):
+        return len(self._load())
+
+    def __getitem__(self, key):
+        return self._load()[key]
+
+    def __bool__(self):
+        return bool(self._load())
+
+    def __repr__(self):
+        return repr(self._load())
+
+
 # Load database once when module is imported.
-dictionary = load_dictionary()
+dictionary = LazyDictionary(load_dictionary)
 
 
 # ==========================================================

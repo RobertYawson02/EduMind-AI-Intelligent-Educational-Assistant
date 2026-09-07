@@ -18,6 +18,36 @@ KNOWLEDGE_PATH = os.path.join(BASE_DIR, "data", "educational_knowledge.json")
 SYNONYMS_PATH = os.path.join(BASE_DIR, "data", "synonyms.json")
 
 
+class LazyList:
+    """Lazy wrapper that defers JSON loading until it is actually used."""
+
+    def __init__(self, path, loader):
+        self.path = path
+        self.loader = loader
+        self._cache = None
+
+    def _load(self):
+        if self._cache is None:
+            self._cache = self.loader(self.path)
+        return self._cache
+
+    def __iter__(self):
+        return iter(self._load())
+
+    def __len__(self):
+        return len(self._load())
+
+    def __getitem__(self, key):
+        return self._load()[key]
+
+    def __bool__(self):
+        return bool(self._load())
+
+    def __repr__(self):
+        loaded = self._load()
+        return repr(loaded)
+
+
 def _load_json_list(path):
     try:
         with open(path, "r", encoding="utf-8") as file:
@@ -43,7 +73,7 @@ def _load_synonyms():
         return {}
 
 
-knowledge_base = load_knowledge()
+knowledge_base = LazyList(KNOWLEDGE_PATH, _load_json_list)
 synonyms = _load_synonyms()
 
 
@@ -65,7 +95,6 @@ def _search_document(item):
     ]).strip()
 
 
-documents = [_search_document(item) for item in knowledge_base if isinstance(item, dict)]
 vectorizer = TfidfVectorizer(
     lowercase=True,
     ngram_range=(1, 2),
@@ -74,7 +103,15 @@ vectorizer = TfidfVectorizer(
 )
 knowledge_vectors = None
 
-if documents:
+
+def _ensure_index():
+    global knowledge_vectors
+    if knowledge_vectors is not None:
+        return
+    data = knowledge_base._load() if hasattr(knowledge_base, "_load") else knowledge_base
+    documents = [_search_document(item) for item in data if isinstance(item, dict)]
+    if not documents:
+        return
     try:
         knowledge_vectors = vectorizer.fit_transform(documents)
         print("Knowledge Search Index Ready.")
@@ -97,7 +134,11 @@ def _expand_query(question):
 
 
 def search_knowledge(question, min_similarity=0.16):
-    if not question or not knowledge_base or knowledge_vectors is None:
+    data = knowledge_base._load() if hasattr(knowledge_base, "_load") else knowledge_base
+    if not question or not data:
+        return None
+    _ensure_index()
+    if knowledge_vectors is None:
         return None
 
     try:
@@ -105,14 +146,11 @@ def search_knowledge(question, min_similarity=0.16):
         query_vector = vectorizer.transform([query])
         scores = cosine_similarity(query_vector, knowledge_vectors)[0]
 
-        # Combine lexical intent with TF-IDF. Exact topic/keyword matches are
-        # deliberately strong so a generic topic such as "Natural Language
-        # Query" cannot outrank a direct match such as "Artificial Intelligence".
         q_lower = query.lower()
         q_tokens = set(re.findall(r"[a-zA-ZÀ-ÿɔɛƆƐ0-9]+", q_lower))
         combined = []
         for index, base_score in enumerate(scores):
-            item = knowledge_base[index]
+            item = data[index]
             topic = str(item.get("topic", "")).strip().lower()
             keywords = [str(x).strip().lower() for x in item.get("keywords", []) if x]
             lexical = 0.0
@@ -125,8 +163,6 @@ def search_knowledge(question, min_similarity=0.16):
             overlap = len(q_tokens & topic_tokens) / max(1, len(topic_tokens))
             lexical += min(0.20, overlap * 0.20)
 
-            # Prefer the canonical definition record for definition-style
-            # questions over broad topic variants such as "- Steps".
             definition_query = q_lower.startswith((
                 "what is ", "what are ", "define ", "definition of ",
                 "meaning of ",
@@ -144,7 +180,7 @@ def search_knowledge(question, min_similarity=0.16):
         if best_score < min_similarity:
             return None
 
-        result = dict(knowledge_base[best_index])
+        result = dict(data[best_index])
         result["retrieval_score"] = round(best_score, 4)
         return result
     except Exception as exc:
